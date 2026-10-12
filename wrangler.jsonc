@@ -1,7 +1,0 @@
-{
-  "name": "pix-server-new",
-  "main": "index.js",
-  "compatibility_date": "2025-10-01",
-  "ai": { "binding": "AI" },
-  "observability": { "enabled": true }
-}
